@@ -2,7 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://dariussd.github.io/hello-world.html</loc>
+    <loc>https://memorycorner.xyz/posts/ea27856d.html</loc>
+    
+    <lastmod>2022-06-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://memorycorner.xyz/posts/d811e7ef.html</loc>
+    
+    <lastmod>2022-06-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://memorycorner.xyz/posts/c10ad6ae.html</loc>
+    
+    <lastmod>2022-06-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://memorycorner.xyz/posts/7399b7d5.html</loc>
+    
+    <lastmod>2022-06-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://memorycorner.xyz/posts/110a07d0.html</loc>
+    
+    <lastmod>2022-06-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://memorycorner.xyz/posts/4a17b156.html</loc>
+    
+    <lastmod>2022-06-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://memorycorner.xyz/link/index.html</loc>
     
     <lastmod>2022-06-05</lastmod>
     
@@ -11,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://dariussd.github.io/link/index.html</loc>
+    <loc>https://memorycorner.xyz/categories/index.html</loc>
     
     <lastmod>2022-06-05</lastmod>
     
@@ -20,16 +74,7 @@
   </url>
   
   <url>
-    <loc>https://dariussd.github.io/categories/index.html</loc>
-    
-    <lastmod>2022-06-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dariussd.github.io/tags/index.html</loc>
+    <loc>https://memorycorner.xyz/tags/index.html</loc>
     
     <lastmod>2022-06-05</lastmod>
     
@@ -39,8 +84,8 @@
   
 
   <url>
-    <loc>https://dariussd.github.io/</loc>
-    <lastmod>2022-06-05</lastmod>
+    <loc>https://memorycorner.xyz/</loc>
+    <lastmod>2022-06-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

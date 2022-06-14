@@ -1,10 +1,10 @@
 User-agent: *
 Allow: /
 Allow: /posts/
-Disallow: /archives/
+Allow: /archives/
 Disallow: /images/
-Disallow: /categories/
-Disallow: /tags/ 
+Allow: /categories/
+Allow: /tags/ 
 Disallow: /resources/ 
 Disallow: /vendors/
 Disallow: /js/
@@ -13,5 +13,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://dariussd.github.io/sitemap.xml
-Sitemap: https://dariussd.github.io/baidusitemap.xml
+Sitemap: https://memorycorner.xyz/sitemap.xml
+Sitemap: https://memorycorner.xyz/baidusitemap.xml
